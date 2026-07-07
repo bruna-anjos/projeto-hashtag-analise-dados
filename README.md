@@ -1,4 +1,5 @@
 Projeto de Análise de Vendas com Python
+
 Objetivo
 
 Este projeto tem como objetivo realizar o tratamento e a análise de um conjunto de dados de vendas de uma empresa fictícia do setor de tecnologia utilizando Python e Pandas.
